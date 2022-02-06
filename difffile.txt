@@ -1,3 +1,14 @@
 Introduction
 
 this file is to identify the difference bewteen local dir, staging area, remote repository
+
+
+
+section 1:
+
+loading the data into the local repository.
+
+
+section 2:
+
+
