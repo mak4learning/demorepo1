@@ -1,3 +1,7 @@
 To push into github
 
 update the file for testing the fast forward merge
+
+update the file for disabloing ff by --no-ff
+
+
