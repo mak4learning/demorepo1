@@ -2,6 +2,7 @@ section :1
 
 
 a) this from the main branch
+A) THIS FROM THE MYPROJECT
 
-
-b) this for merge testing main
+b) this for merge testing maie
+B) THIS FORM THE MYPROJECT
