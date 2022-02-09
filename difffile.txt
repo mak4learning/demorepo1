@@ -20,3 +20,9 @@ section 3:
 
 loaded date in local directory and comparing with staging area.
 
+
+section 4: 
+
+
+loaded data for automatic merge
+
