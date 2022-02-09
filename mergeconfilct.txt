@@ -3,14 +3,23 @@ This file is to test the merge conflict
 
 
 section 1: 
+<<<<<<< HEAD
 	this is from the main branch
 
 
 
 section 2: 
 
-	this is from the main bramch
 
+
+=======
+
+
+
+
+section 2: 
+	this aslo from myproject
+>>>>>>> myproject
 
 
 
