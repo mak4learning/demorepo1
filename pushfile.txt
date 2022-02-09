@@ -4,4 +4,4 @@ update the file for testing the fast forward merge
 
 update the file for disabloing ff by --no-ff
 
-
+UDPATE THE FILE FOR AUTOMATIC MERGE
