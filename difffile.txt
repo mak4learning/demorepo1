@@ -12,3 +12,11 @@ loading the data into the local repository.
 section 2:
 
 
+loading the data into the staging area
+
+
+section 3: 
+
+
+loaded date in local directory and comparing with staging area.
+
