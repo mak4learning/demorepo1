@@ -1,1 +1,14 @@
 This file is to test the merge conflict
+
+
+
+section 1: 
+
+	this from the myrpoject 
+
+
+section 2: 
+	this aslo from myproject
+
+
+
