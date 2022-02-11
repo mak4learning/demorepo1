@@ -12,5 +12,6 @@ this is to merge the myproject with main branch
 
 
 
+this the last line:wq!
 
 this is the update from the remote repo
