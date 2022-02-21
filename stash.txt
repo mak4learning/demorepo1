@@ -5,3 +5,7 @@ this is update
 
 
 update the file to move it to other bramch in github
+
+
+
+updated the file in local repo for merge conflict
